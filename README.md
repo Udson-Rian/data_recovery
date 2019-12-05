@@ -41,5 +41,5 @@ Recuperar, mas por quê?
 * Nuvem
 
 ## RAID
-
+foi possivel perceber a impotancia e valor dos dados na  sociedade, visto isso, é necessário realizar o processo de segurança e "garantia desses dados. Uma das melhores formas de realizar esse processo é utilizar as tecnics de RAID que se distribuem em tecnicas de agregassão de dixcos rigidos que podem asism obter melhora em questões de velocidade,  espaço de armazenamento e disponibilidade.
 ## Foremost
